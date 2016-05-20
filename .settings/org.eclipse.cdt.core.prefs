@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.275901283/NDK_MODULE_PATH/delimiter=;
+environment/project/com.android.toolchain.gcc.275901283/NDK_MODULE_PATH/operation=replace
+environment/project/com.android.toolchain.gcc.275901283/NDK_MODULE_PATH/value=D\:\\adt-bundle-windows-x86_64-20140321\\android-ndk-r9b
+environment/project/com.android.toolchain.gcc.275901283/append=true
+environment/project/com.android.toolchain.gcc.275901283/appendContributed=true
